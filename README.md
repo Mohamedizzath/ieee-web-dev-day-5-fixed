@@ -1,17 +1,6 @@
-# Introduction to React
+# IEEE 7 lines of Code React UI Task 1
 
-Pre-requisites: [nodejs](https://nodejs.org/en/)
+Borrowed from https://github.com/NethmiRodrigo/ieee-web-dev-day-5 
 
-### Setup
-
-- Fork the repo and clone it your machine
-- cd to the project directory and run npm install
-- In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.
+## Screen Shots
 
